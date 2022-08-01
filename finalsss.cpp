@@ -95,9 +95,6 @@ int heading()
     space(s);
     cout<<"\n";
     space(s1);
-    cout<<"\n";
-    cout<<"Submitted to: DR. VIKAS SAXENA"<<endl;
-    cout<<"Submitted by: "<<endl<<"Skandha Choudhry     16104012"<<endl<<"Ajay Kumar Kushwaha  16104013"<<endl<<"Umang Rastogi        16104037"<<endl<<"Samyak Jain          16104047"<<endl;
     line_break();
 }
 //Main reservation function
